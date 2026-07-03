@@ -194,6 +194,10 @@ h3 {
 	text-decoration:underline;
 }
 
+paypal-add-to-cart-button p {
+	margin-bottom:1em;
+}
+
 
 @media only screen and (max-width: 565px) {
 	.header{
